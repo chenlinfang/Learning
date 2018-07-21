@@ -5,4 +5,8 @@ git commit
 git remote add origin 
 git push
 hahaha
-***********************
+**********************
+git push origin [branch name]
+git branch 
+git checkout [branch name]
+git checkout -b [branch name]
